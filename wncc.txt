@@ -1,0 +1,7 @@
+wncc
+<<<<<<< HEAD
+=======
+2nd session
+iitb
+chemical eng
+>>>>>>> wncc
